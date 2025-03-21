@@ -3,3 +3,4 @@ line 2 added on branch1
 line 3 added on branch1
 line 4 added on branch1
 line 5 added on branch1 by jeet
+line 6 added on branch2 by jeet
